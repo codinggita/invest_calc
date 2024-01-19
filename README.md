@@ -19,3 +19,11 @@
      - PPF (Public Provident Fund) Calculator
      - Compound Interest Calculator
      - CAGR (Compound Annual Growth Rate) Calculator
+
+- Provide educational content alongside calculators, explaining concepts, investment strategies, and how to use each tool effectively.
+
+-  Investors often seek real-time information about stock market trends, stock prices, and company performances. By providing comprehensive stock market details, our website allows users to stay informed, track their investments, and make timely decisions based on market movements.
+
+-  Mutual funds are a popular investment choice, but selecting the right funds can be challenging. Our website offers users valuable insights into various mutual funds, including performance history, risk factors, and other relevant details. This empowers investors to make informed decisions aligned with their financial goals.
+
+-  Providing users with a holistic view of their investment portfolio. This comprehensive approach enables investors to adapt and optimize their strategies in response to changing market conditions, ultimately contributing to more successful and well-informed investment decisions.

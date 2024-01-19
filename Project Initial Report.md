@@ -12,8 +12,8 @@ InvestCalc is website which designed specifically for Investors.
   - This project aims to address several financial planning challenges faced by investors by offering a comprehensive set of calculators and tools.
   - This project addresses the common challenges faced by investors in financial planning, providing them with a suite of tools to make informed decisions, set 
 realistic goals, and plan for a secure financial future.
-  -  Investors often seek real-time information about stock market trends, stock prices, and company performances. By providing comprehensive stock market details, your website allows users to stay informed, track their investments, and make timely decisions based on market movements.
-  -  Mutual funds are a popular investment choice, but selecting the right funds can be challenging. Your website offers users valuable insights into various mutual funds, including performance history, risk factors, and other relevant details. This empowers investors to make informed decisions aligned with their financial goals.
+  -  Investors often seek real-time information about stock market trends, stock prices, and company performances. By providing comprehensive stock market details, our website allows users to stay informed, track their investments, and make timely decisions based on market movements.
+  -  Mutual funds are a popular investment choice, but selecting the right funds can be challenging. Our website offers users valuable insights into various mutual funds, including performance history, risk factors, and other relevant details. This empowers investors to make informed decisions aligned with their financial goals.
   -  Providing users with a holistic view of their investment portfolio. This comprehensive approach enables investors to adapt and optimize their strategies in response to changing market conditions, ultimately contributing to more successful and well-informed investment decisions.
 
 

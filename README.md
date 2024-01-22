@@ -27,3 +27,7 @@
 -  Mutual funds are a popular investment choice, but selecting the right funds can be challenging. Our website offers users valuable insights into various mutual funds, including performance history, risk factors, and other relevant details. This empowers investors to make informed decisions aligned with their financial goals.
 
 -  Providing users with a holistic view of their investment portfolio. This comprehensive approach enables investors to adapt and optimize their strategies in response to changing market conditions, ultimately contributing to more successful and well-informed investment decisions.
+<br>
+<br>
+
+## API Documentation link :- https://documenter.getpostman.com/view/29969708/2s9YymGQ1X

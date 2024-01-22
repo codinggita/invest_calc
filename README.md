@@ -1,5 +1,11 @@
 # invest_calc
 
+## Figma link :- 
+https://www.figma.com/file/qxyPJDoYrZ9TneTvUu8aHy/Untitled?type=design&node-id=0%3A1&mode=design&t=rGSMeBf326kySTeF-1
+
+## API Documentation link :-
+https://documenter.getpostman.com/view/29969708/2s9YymGQ1X
+
 - InvestCalc is website which designed specifically for Investors.
 
 - This project aims to address several financial planning challenges faced by investors by offering a comprehensive set of calculators and tools.

@@ -1,7 +1,7 @@
 import React from 'react'
 import Cal from './Cal'
 
-function FinCal() {
+function FinCal(props) {
   return (
     <>
             <div className="container text-center mt-md-5 pt-md-5">
@@ -13,7 +13,7 @@ function FinCal() {
           </div>
           <div className="container-fluid">
         <div className="row calculatormain">
-        <Cal pic ="./lum-sum-calculator.png"/>
+        <Cal/>
        
        
       </div>

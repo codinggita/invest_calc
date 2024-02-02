@@ -1,5 +1,8 @@
 # invest_calc
 
+## Netlify link :-
+https://invest-calc42.netlify.app/
+
 ## Figma link :- 
 https://www.figma.com/file/qxyPJDoYrZ9TneTvUu8aHy/Untitled?type=design&node-id=0%3A1&mode=design&t=rGSMeBf326kySTeF-1
 

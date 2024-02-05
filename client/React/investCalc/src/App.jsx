@@ -1,14 +1,19 @@
-import { useState } from 'react'
-import './App.css'
+import './App.css';
+import Nav from './Nav';
+import FinCal from './FinCal';
+
 
 
 function App() {
-  
+
   return (
     <>
-    <h1>Welcome to Home Page....!</h1>
+    <Nav/>
+    <FinCal/>
     </>
-  )
+
+  );
+  
 }
 
-export default App
+export default App;

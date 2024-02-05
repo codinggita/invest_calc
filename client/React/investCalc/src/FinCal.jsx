@@ -1,9 +1,11 @@
 import React from 'react'
 import Cal from './Cal'
+import Nav from "./Nav"
 
 function FinCal(props) {
   return (
     <>
+            <Nav/>
             <div className="container text-center mt-md-5 pt-md-5">
             <div className="row">
             <div className="col-12">

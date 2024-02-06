@@ -23,7 +23,7 @@ function Nav() {
                         <Link to="/calculator" className="nav-link" >Calculator</Link>
                         </li>
                         <li className="nav-item">
-                        <span className="nav-link">Login</span>
+                        <span className="nav-link">Sign in</span>
                         </li>
                         <li className="nav-item">
                         <span className="nav-link">Sign up</span>
